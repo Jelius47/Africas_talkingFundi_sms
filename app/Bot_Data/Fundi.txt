@@ -1,0 +1,121 @@
+📚 Project Overview: Construction Assistant Bot ("FundiGpt")
+
+This project focuses on creating a conversational assistant to help individuals across Tanzania (and beyond) learn about construction processes, materials, and best practices. The bot is designed to assist both first-time builders and those expanding their construction knowledge, offering real-time support across all stages of a building project.
+
+By providing quick, accurate, and contextual information, the bot will improve decision-making, reduce common mistakes during construction, and empower users to manage their building projects more confidently.
+🛠️ Key Features of the Bot
+
+The bot will handle:
+
+    Guidance on different construction phases (planning, foundation, walls, roofing, finishing).
+
+    Recommendations on material selection based on budget and building type.
+
+    Understanding building permits and legal requirements (optional feature).
+
+    Estimating quantities of materials needed.
+
+    Advice on choosing and managing construction workers or contractors.
+
+Apart from these, the bot will also answer normal user queries related to building and materials.
+Below is a detailed breakdown of the system data and functionalities the bot can provide.
+📑 System Data for Handling User Queries
+1. Building Material Information
+
+    Data Required:
+    Names, types, prices, and best uses of materials (e.g., cement types, bricks, roofing sheets, paints).
+
+    Purpose:
+    Help users choose appropriate and cost-effective materials.
+
+    Example Query:
+    "Which type of cement is best for a two-story building?"
+
+2. Construction Process Guidance
+
+    Data Required:
+    Step-by-step processes from site preparation to finishing.
+
+    Purpose:
+    Educate users on what to expect at each construction phase.
+
+    Example Query:
+    "What are the steps to start building a house?"
+
+3. Material Cost Estimates
+
+    Data Required:
+    Average prices per unit and calculation formulas.
+
+    Purpose:
+    Assist users in budgeting for their construction projects.
+
+    Example Query:
+    "How many bags of cement do I need for a 3-bedroom house?"
+
+4. Contractor and Worker Tips
+
+    Data Required:
+    Best practices for hiring and managing fundis and contractors.
+
+    Purpose:
+    Protect users from being overcharged or getting substandard work.
+
+    Example Query:
+    "How do I find a good fundi for roofing?"
+
+5. Building Regulations and Permits (Optional)
+
+    Data Required:
+    Basic building codes and permit requirements for various areas.
+
+    Purpose:
+    Inform users of legal obligations before building.
+
+    Example Query:
+    "Do I need a permit to build in Kigamboni?"
+
+6. Troubleshooting Common Construction Problems
+
+    Data Required:
+    List of common construction issues and how to solve them (e.g., cracks, poor drainage).
+
+    Purpose:
+    Enable quick fixes and prevention strategies.
+
+    Example Query:
+    "Why is my wall cracking after plastering?"
+
+7. Sustainable Building Tips
+
+    Data Required:
+    Eco-friendly practices, alternative materials, energy-saving designs.
+
+    Purpose:
+    Promote greener construction choices.
+
+    Example Query:
+    "How can I build an eco-friendly house?"
+
+8. Safety and Emergency Guidelines
+
+    Data Required:
+    Construction site safety measures and emergency contacts.
+
+    Purpose:
+    Ensure user safety during the building process.
+
+    Example Query:
+    "What safety gear should builders wear?"
+
+✨ Future Enhancements (Optional Ideas)
+
+    Real-time consultation with certified engineers.
+
+    3D building plan previews.
+
+    Integration with local hardware stores for material ordering.
+
+Short Tagline:
+
+    "FundiGpt — Mshauri wako wa ujenzi, wakati wowote, mahali popote."
