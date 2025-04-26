@@ -32,7 +32,7 @@ Designed to deliver simple, friendly, and language-flexible answers via SMS.
 
 ### 📦 Project Structure
 
-`.
+```.
 ├── app
 │   ├── Bot_Data/                 # Knowledge base text files
 │   ├── config.py                  # Configuration settings
@@ -47,7 +47,7 @@ Designed to deliver simple, friendly, and language-flexible answers via SMS.
 ├── requirements.txt               # Python dependencies
 ├── run.py                         # Application entry point
 └── threads_db/                    # Conversation/session management
-`
+```
 ### 🔥 Getting Started
 
     Clone the repository
